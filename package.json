@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^12.5.1",
+    "self-reload-json": "^0.4.0"
+  },
+  "name": "package",
+  "version": "1.0.0",
+  "description": "track of the dependencies ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
